@@ -39,55 +39,24 @@
 
 ## 🚀 Featured Projects
 
-### 🔐 IPsec Sentinel
+<p align="center">
+<a href="https://github.com/Tapas193/Ipsec_Sentimel"><img src="./assets/ipsec-sentinel.png" width="49%" alt="IPsec Sentinel - AI-Powered IPsec VPN Protocol Analyzer and Security Assessment Framework. Python, FastAPI, React, PostgreSQL, Scapy, TShark, Docker."/></a>
+<a href="https://github.com/Tapas193/careerr-trackkk"><img src="./assets/career-track.png" width="49%" alt="Career Track - Student Career Lifecycle Tracking System. React, TypeScript, Node.js, Express, PostgreSQL, Prisma, JWT, Tailwind CSS."/></a>
+</p>
 
-<sub>**AI-Powered IPsec VPN Protocol Analyzer &amp; Security Assessment Framework**</sub>
+<p align="center">
+<a href="https://ibvap-uk.duckdns.org"><img src="./assets/ibvap.png" width="49%" alt="IBVAP - Intelligent Border Video Analytics Platform. Python, YOLO, OpenCV, RTSP, React, Node.js."/></a>
+<a href="https://tapas-mishra-portfolio.vercel.app/"><img src="./assets/developer-portfolio.png" width="49%" alt="Developer Portfolio - Personal developer portfolio. React, Vite, TypeScript, Tailwind CSS."/></a>
+</p>
 
-A security assessment platform for analyzing authorized IPsec VPN PCAP/PCAPNG captures and extracting protocol, network-flow and security information.
-
-**Highlights** — 📦 PCAP / PCAPNG processing · 🛡️ Secure upload validation &amp; SHA-256 identification · 🔐 IKE / IKEv2 analysis &amp; ESP / AH detection · 🌐 IPv4 / IPv6 analysis &amp; network flow extraction · 📊 Security assessment dashboard
-
-**Tech** — `Python` `FastAPI` `React` `PostgreSQL` `Scapy` `TShark` `Docker`
-
-<a href="https://github.com/Tapas193/Ipsec_Sentimel"><img src="https://img.shields.io/badge/View_Repository-38BDF8?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-### 🎓 Career Track
-
-<sub>**Student Career Lifecycle Tracking System**</sub>
-
-A platform tracking the student journey from admission through academics, skills, projects, internships, placement and alumni.
-
-**Highlights** — 👨‍🎓 Student profiles &amp; academic progress · 🧠 Skills &amp; certifications · 💻 Projects &amp; internships · 🏢 Placement rounds, offer letters &amp; alumni lifecycle
-
-**Tech** — `React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `JWT` `Tailwind CSS`
-
-<a href="https://github.com/Tapas193/careerr-trackkk"><img src="https://img.shields.io/badge/View_Repository-38BDF8?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://career-tracker-one-iota.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-### 🛡️ IBVAP
-
-<sub>**Intelligent Border Video Analytics Platform**</sub>
-
-Computer-vision surveillance analytics designed around existing IP-based CCTV infrastructure.
-
-**Highlights** — 👤 Human detection &amp; tracking · 🚗 Vehicle detection &amp; classification · 🔢 Face detection &amp; ANPR · 🚧 Virtual fence &amp; suspicious activity detection · 🌙 Night movement detection · 🚨 Real-time alerts &amp; event logging
-
-**Tech** — `Python` `YOLO` `OpenCV` `RTSP` `React` `Node.js`
-
-<a href="https://ibvap-uk.duckdns.org"><img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-
-### 💻 Developer Portfolio
-
-<sub>**Personal developer portfolio**</sub>
-
-A modern portfolio showcasing projects, technical skills and achievements.
-
-**Highlights** — 🎨 Clean responsive UI · ✨ Motion &amp; interaction design · 🚀 Recruiter-friendly project showcase
-
-**Tech** — `React` `Vite` `TypeScript` `Tailwind CSS`
-
-<a href="https://tapas-mishra-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Live_Site-2EA44F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/Tapas193/Portfolio"><img src="https://img.shields.io/badge/View_Repository-38BDF8?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="center">
+<a href="https://github.com/Tapas193/Ipsec_Sentimel"><img src="https://img.shields.io/badge/🔐_IPsec_Sentinel-38BDF8?style=for-the-badge"/></a>
+<a href="https://github.com/Tapas193/careerr-trackkk"><img src="https://img.shields.io/badge/🎓_Career_Track-38BDF8?style=for-the-badge"/></a>
+<a href="https://career-tracker-one-iota.vercel.app"><img src="https://img.shields.io/badge/Career_Track_Demo-2EA44F?style=for-the-badge"/></a>
+<a href="https://ibvap-uk.duckdns.org"><img src="https://img.shields.io/badge/🛡️_IBVAP_Demo-2EA44F?style=for-the-badge"/></a>
+<a href="https://tapas-mishra-portfolio.vercel.app/"><img src="https://img.shields.io/badge/💻_Portfolio_Demo-2EA44F?style=for-the-badge"/></a>
+<a href="https://github.com/Tapas193/Portfolio"><img src="https://img.shields.io/badge/Portfolio_Code-38BDF8?style=for-the-badge"/></a>
+</p>
 
 ---
 

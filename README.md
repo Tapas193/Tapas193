@@ -34,123 +34,60 @@
 - ⚙️ I enjoy building **APIs, distributed services, real-time dashboards and security tooling**
 - 💻 Solved **350+ LeetCode problems** with a peak rating of **1624**
 - 🏆 **Hackathon Finalist** — shipping prototypes under real deadlines
-- 🎯 **President — We Code Club**, running peer learning and technical workshops
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
+### 🔐 IPsec Sentinel
 
-<td width="50%" valign="top">
+<sub>**AI-Powered IPsec VPN Protocol Analyzer &amp; Security Assessment Framework**</sub>
 
-<h3 align="left">🔐 IPsec Sentinel</h3>
-<p align="left"><sub><b>AI-Powered IPsec VPN Protocol Analyzer &amp; Security Assessment Framework</b></sub></p>
+A security assessment platform for analyzing authorized IPsec VPN PCAP/PCAPNG captures and extracting protocol, network-flow and security information.
 
-<p align="left">A security assessment platform that analyzes authorized IPsec VPN captures and extracts protocol, network-flow and security information.</p>
+**Highlights** — 📦 PCAP / PCAPNG processing · 🛡️ Secure upload validation &amp; SHA-256 identification · 🔐 IKE / IKEv2 analysis &amp; ESP / AH detection · 🌐 IPv4 / IPv6 analysis &amp; network flow extraction · 📊 Security assessment dashboard
 
-<p align="left">
-<sub><b>Highlights</b></sub><br/>
-📦 PCAP / PCAPNG processing<br/>
-🛡️ Secure upload validation &amp; SHA-256 identification<br/>
-🔐 IKE / IKEv2 analysis &amp; ESP / AH detection<br/>
-🌐 IPv4 / IPv6 analysis &amp; network flow extraction<br/>
-📊 Security assessment dashboard
-</p>
+**Tech** — `Python` `FastAPI` `React` `PostgreSQL` `Scapy` `TShark` `Docker`
 
-<p align="left"><sub><b>Tech</b></sub><br/>
-<code>Python</code> <code>FastAPI</code> <code>React</code> <code>PostgreSQL</code><br/>
-<code>Scapy</code> <code>TShark</code> <code>Docker</code>
-</p>
-
-<br/>
 <a href="https://github.com/Tapas193/Ipsec_Sentimel"><img src="https://img.shields.io/badge/View_Repository-38BDF8?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-</td>
+### 🎓 Career Track
 
-<td width="50%" valign="top">
+<sub>**Student Career Lifecycle Tracking System**</sub>
 
-<h3 align="left">🎓 Career Track</h3>
-<p align="left"><sub><b>Student Career Lifecycle Tracking System</b></sub></p>
+A platform tracking the student journey from admission through academics, skills, projects, internships, placement and alumni.
 
-<p align="left">A platform tracking the student journey from admission through academics, skills, projects, internships, placement and alumni.</p>
+**Highlights** — 👨‍🎓 Student profiles &amp; academic progress · 🧠 Skills &amp; certifications · 💻 Projects &amp; internships · 🏢 Placement rounds, offer letters &amp; alumni lifecycle
 
-<p align="left">
-<sub><b>Highlights</b></sub><br/>
-👨‍🎓 Student profiles &amp; academic progress<br/>
-🧠 Skills and certifications<br/>
-💻 Projects &amp; internships<br/>
-🏢 Placement rounds, offers &amp; alumni lifecycle
-</p>
+**Tech** — `React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `JWT` `Tailwind CSS`
 
-<p align="left"><sub><b>Tech</b></sub><br/>
-<code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Express</code><br/>
-<code>PostgreSQL</code> <code>Prisma</code> <code>JWT</code> <code>Tailwind CSS</code>
-</p>
-
-<br/>
 <a href="https://github.com/Tapas193/careerr-trackkk"><img src="https://img.shields.io/badge/View_Repository-38BDF8?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://career-tracker-one-iota.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-</td>
+### 🛡️ IBVAP
 
-</tr>
+<sub>**Intelligent Border Video Analytics Platform**</sub>
 
-<tr>
+Computer-vision surveillance analytics designed around existing IP-based CCTV infrastructure.
 
-<td width="50%" valign="top">
+**Highlights** — 👤 Human detection &amp; tracking · 🚗 Vehicle detection &amp; classification · 🔢 Face detection &amp; ANPR · 🚧 Virtual fence &amp; suspicious activity detection · 🌙 Night movement detection · 🚨 Real-time alerts &amp; event logging
 
-<h3 align="left">🛡️ IBVAP</h3>
-<p align="left"><sub><b>Intelligent Border Video Analytics Platform</b></sub></p>
+**Tech** — `Python` `YOLO` `OpenCV` `RTSP` `React` `Node.js`
 
-<p align="left">Computer-vision surveillance analytics built around existing IP-based CCTV infrastructure.</p>
-
-<p align="left">
-<sub><b>Highlights</b></sub><br/>
-👤 Human detection &amp; tracking<br/>
-🚗 Vehicle detection &amp; classification<br/>
-🔢 Face detection &amp; ANPR<br/>
-🚧 Virtual fence &amp; suspicious activity detection<br/>
-🌙 Night movement detection, alerts &amp; event logging
-</p>
-
-<p align="left"><sub><b>Tech</b></sub><br/>
-<code>Python</code> <code>YOLO</code> <code>OpenCV</code> <code>RTSP</code><br/>
-<code>React</code> <code>Node.js</code>
-</p>
-
-<br/>
 <a href="https://ibvap-uk.duckdns.org"><img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
-</td>
+### 💻 Developer Portfolio
 
-<td width="50%" valign="top">
+<sub>**Personal developer portfolio**</sub>
 
-<h3 align="left">💻 Developer Portfolio</h3>
-<p align="left"><sub><b>Personal developer portfolio</b></sub></p>
+A modern portfolio showcasing projects, technical skills and achievements.
 
-<p align="left">A modern portfolio showcasing projects, technical skills and achievements.</p>
+**Highlights** — 🎨 Clean responsive UI · ✨ Motion &amp; interaction design · 🚀 Recruiter-friendly project showcase
 
-<p align="left">
-<sub><b>Focus</b></sub><br/>
-🎨 Clean, responsive UI<br/>
-✨ Motion &amp; interaction design<br/>
-🚀 Recruiter-friendly project showcase
-</p>
+**Tech** — `React` `Vite` `TypeScript` `Tailwind CSS`
 
-<p align="left"><sub><b>Tech</b></sub><br/>
-<code>React</code> <code>Vite</code> <code>TypeScript</code><code>Tailwind CSS</code>
-</p>
-
-<br/>
 <a href="https://tapas-mishra-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Live_Site-2EA44F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/Tapas193/Portfolio"><img src="https://img.shields.io/badge/View_Repository-38BDF8?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -184,15 +121,20 @@
 
 ## 🎯 Current Focus
 
-<table>
-<tr>
-<td align="center" valign="top" width="20%"><br/><img src="https://skillicons.dev/icons?i=react&size=45" alt=""/><br/><h3>🧩 DSA</h3><sub>Problem Solving<br/>Algorithms<br/>Data Structures</sub></td>
-<td align="center" valign="top" width="20%"><br/><img src="https://skillicons.dev/icons?i=nodejs,express&size=45" alt=""/><br/><h3>⚙️ Backend</h3><sub>REST APIs<br/>Authentication<br/>Scalable Services</sub></td>
-<td align="center" valign="top" width="20%"><br/><img src="https://skillicons.dev/icons?i=terraform&size=45" alt=""/><br/><h3>🏗️ System Design</h3><sub>Architecture<br/>Low-Level Design<br/>Scalability</sub></td>
-<td align="center" valign="top" width="20%"><br/><img src="https://skillicons.dev/icons?i=aws,docker&size=45" alt=""/><br/><h3>☁️ Cloud &amp; DevOps</h3><sub>AWS<br/>Docker<br/>Kubernetes<br/>CI/CD</sub></td>
-<td align="center" valign="top" width="20%"><br/><img src="https://skillicons.dev/icons?i=linux&size=45" alt=""/><br/><h3>🔐 Security</h3><sub>Networking<br/>IPsec<br/>Cybersecurity</sub></td>
-</tr>
-</table>
+**🧩 DSA**
+<sub>Problem Solving · Algorithms · Data Structures</sub>
+
+**⚙️ Backend Engineering**
+<sub>REST APIs · Authentication · Scalable Services</sub>
+
+**🏗️ System Design**
+<sub>Architecture · Low-Level Design · Scalability</sub>
+
+**☁️ Cloud &amp; DevOps**
+<sub>AWS · Docker · Kubernetes · CI/CD</sub>
+
+**🔐 Security**
+<sub>Networking · IPsec · Cybersecurity</sub>
 
 ---
 
@@ -237,23 +179,13 @@
 
 ## 🏆 Highlights
 
-<table>
-<tr>
-<td align="center" valign="top" width="33%">🏆<br/><b>Hackathon Finalist</b><br/><sub>Shipped working prototypes under real deadlines</sub></td>
-<td align="center" valign="top" width="33%">☁️<br/><b>Technical Lead — AWS Cloud Club</b><br/><sub>Graphic Era Hill University</sub></td>
-<td align="center" valign="top" width="33%">🎯<br/><b>President — We Code Club</b><br/><sub>Peer learning &amp; technical workshops</sub></td>
-</tr>
-<tr>
-<td align="center" valign="top" width="33%">💻<br/><b>350+ LeetCode Problems</b><br/><sub>Consistent daily practice</sub></td>
-<td align="center" valign="top" width="33%">🧠<br/><b>Max LeetCode Rating — 1624</b><br/><sub>Personal best rating</sub></td>
-<td align="center" valign="top" width="33%">🏅<br/><b>LeetCode 100 Days Badge</b><br/><sub>100 days of consistent solving</sub></td>
-</tr>
-<tr>
-<td align="center" valign="top" width="33%">📚<br/><b>NPTEL Certification</b><br/><sub>Formal coursework completed</sub></td>
-<td align="center" valign="top" width="33%">🎓<br/><b>B.Tech — CSE</b><br/><sub>Graphic Era Hill University</sub></td>
-<td align="center" valign="top" width="33%"><br/>&nbsp;</td>
-</tr>
-</table>
+- 🏆 **Hackathon Finalist** — shipped working prototypes under real deadlines
+- ☁️ **Technical Lead — AWS Cloud Club** — Graphic Era Hill University
+- 💻 **350+ LeetCode Problems Solved**
+- 🧠 **Max LeetCode Rating — 1624** (personal best)
+- 🏅 **LeetCode 100 Days Badge** — 100 days of consistent solving
+- 📚 **NPTEL Certification** — formal coursework completed
+- 🎓 **B.Tech — CSE**, Graphic Era Hill University
 
 ---
 
@@ -265,16 +197,9 @@
 
 Leading a student community around practical cloud engineering — running hands-on sessions, mentoring student projects and pushing members toward real deployments.
 
-<table>
-<tr>
-<td align="center" valign="top"><sub><b>Domains</b></sub><br/>☁️ Cloud Computing<br/>🅰️ AWS<br/>🛠️ DevOps<br/>🐧 Linux<br/>🐳 Docker<br/>☸️ Kubernetes<br/>⚡ CI/CD</td>
-<td align="center" valign="top"><sub><b>Community</b></sub><br/>🧑‍🏫 Technical workshops<br/>🛠️ Student projects<br/>🏁 Hackathons<br/>🤝 Peer mentorship</td>
-</tr>
-</table>
+**Focus** — ☁️ Cloud Computing · 🅰️ AWS · 🛠️ DevOps · 🐧 Linux · 🐳 Docker · ☸️ Kubernetes · ⚡ CI/CD
 
-### President — We Code Club
-
-<sub>Leading the club's coding culture — problem-solving sessions, collaborative building and event coordination.</sub>
+**Community** — 🧑‍🏫 Technical workshops · 🛠️ Student projects · 🏁 Hackathons · 🤝 Peer mentorship
 
 ---
 

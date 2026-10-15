@@ -32,7 +32,7 @@
 - 🧠 Passionate about **Full-Stack Development**, **Backend Engineering**, **Cloud Computing** & **Cybersecurity**
 - 🌱 Currently learning **System Design**, **AWS**, **Docker**, **Kubernetes**, **CI/CD** & backend architecture
 - ⚙️ I enjoy building **APIs, distributed services, real-time dashboards and security tooling**
-- 💻 Solved **350+ LeetCode problems** with a peak rating of **1624**
+- 💻 Solved **350+ LeetCode problems** with a peak rating of **1670**
 - 🏆 **Hackathon Finalist** — shipping prototypes under real deadlines
 
 ---
